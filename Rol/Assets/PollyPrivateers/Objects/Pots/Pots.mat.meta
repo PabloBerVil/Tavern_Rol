@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b98ddf7fdf8cf3547b889956067679e3
+timeCreated: 1517749174
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Objects/Pots/Pots.mat
+  uploadId: 234101
