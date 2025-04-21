@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5591e5f4d3d6d8846ba817fc630e0647
+timeCreated: 1520436626
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Prefabs/Medium Decors/MediumPot Tea.prefab
+  uploadId: 234101

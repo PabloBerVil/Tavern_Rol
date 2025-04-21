@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2621a818ff4de894e8f9da5f5f864a9b
+timeCreated: 1517080748
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Objects/Pear/Pear.mat
+  uploadId: 234101

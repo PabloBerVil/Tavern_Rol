@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4909eafe428dfa34f81212302b6b06df
+timeCreated: 1519828560
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Objects/Firewood/Firewood2.mat
+  uploadId: 234101

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1bd67b20ccdf9ee4293c34321d47322a
+timeCreated: 1513955085
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/SeamlessMaterials/Wall2/Wall.mat
+  uploadId: 234101

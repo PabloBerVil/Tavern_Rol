@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0bd267d80e2cc34684703c017a7bef8
+timeCreated: 1520436608
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Prefabs/Medium Decors/Medium pot with Rice.prefab
+  uploadId: 234101

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 449e59375fe479740866269108608b17
+timeCreated: 1520436430
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Prefabs/Medium Decors/LargePotLid.prefab
+  uploadId: 234101

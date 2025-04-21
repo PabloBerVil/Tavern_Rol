@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 31ddff2ef1ed4c74c8557b6c3dd68e42
+timeCreated: 1520436770
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Prefabs/Medium Decors/SmallPotLidOffTea.prefab
+  uploadId: 234101

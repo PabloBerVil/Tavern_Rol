@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5adde3fc89164e4585de4f7b98f14e9
+timeCreated: 1520715914
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113463
+  packageName: Pirate Tavern
+  packageVersion: 1.0
+  assetPath: Assets/PollyPrivateers/Readme.txt
+  uploadId: 234101
