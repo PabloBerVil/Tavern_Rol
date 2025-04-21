@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b330ff26ae2ebd24e9ec9bf923595a97, type: 3}
+  m_Name: SO_Dialog04
+  m_EditorClassIdentifier: 
+  DialogName: Tali_Mela
+  DialogID: 4
+  CharaLeft: 3
+  CharaRight: 6
+  Speaker: 010000000200000001000000
+  Text:
+  - Ven a bailar conmigo Tali. Aqui nadie sabe seguirme el ritmo como mi detective
+    favorito.
+  - Por mucho tiempo que llevemos conociendonos, sigue dandome escalofrios lo facil
+    que cambias de actitud cuando cambias de forma.
+  - Ja ja ja. Seria mas escalofriante si no lo hiciera. Ademas asi es mas divertido.

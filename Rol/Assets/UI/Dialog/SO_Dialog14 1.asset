@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b330ff26ae2ebd24e9ec9bf923595a97, type: 3}
+  m_Name: SO_Dialog14 1
+  m_EditorClassIdentifier: 
+  DialogName: Bharash_nosceres
+  DialogID: 15
+  CharaLeft: 4
+  CharaRight: 0
+  Speaker: 02000000010000000200000001000000
+  Text:
+  - Bharash. Estoy revisando las cuentas. Tengo un pedido que dice "Carne para practicar".
+  - Un guerrero necesita mantenerse en forma para el campo de batalla.
+  - Y la cocina es un campo de batalla.
+  - Eso dice Gavreel.

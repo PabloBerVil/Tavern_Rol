@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b330ff26ae2ebd24e9ec9bf923595a97, type: 3}
+  m_Name: SO_Dialog56
+  m_EditorClassIdentifier: 
+  DialogName: Nosceres_Rassegar
+  DialogID: 56
+  CharaLeft: 2
+  CharaRight: 4
+  Speaker: 02000000010000000200000001000000
+  Text:
+  - Ey abuelo. Te he visto pelear. Echemonos un pulso.
+  - No digas tonterias, R'aseggar. Aunque me mantenga en forma no me rebajaria a
+    actos tan vulgares.
+  - Lloras?
+  - ... tu lo has querido.
